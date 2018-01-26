@@ -1,0 +1,112 @@
+Koolilatsi küsütelemine
+Ristinimi/edenimi ja perekunnanimi
+(vastaja andmõq jääseq salajadsõs) 
+
+Eesti kiil				
+1) Miä passis su kottalõ? Värviq õigõq kruuduq.
+tütrik, poiskõnõ
+10aastanõ   11aastanõ   12 aastanõ   muu vannus, määne?
+Kooli nimi
+
+2a. Määnest kiilt vai mändsit kiili mõistsõt sa joba inne kuuli? Värviq õigõq kruuduq.
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä?
+
+2b. Kon sa opsõt umma edimäst kiilt vai edimäidsi kiili?
+koton, vanavanõmbidõ man, latsiaian, sõpru käest, muial, kon?
+
+3. Määnest kiil vai mändsit kiili sa parla pruugit koton, imäga, esäga, sõsaridõ-velliga?
+
+4a. Mändsen keelen sa raadiosaatit kullõt? Värviq õigõq kruuduq.
+võro, eesti, vinne, tõsõq keeleq, ei kullõq. Mille sa naid saatit kullõt?
+
+4b. Mändsen keelen sa kaet TV-saatit?
+võro, eesti, vinne, tõsõq keeleq, ei kaeq. Mille sa naid saatit kaet?
+
+4c. Mändsen keelen sa loet aolehti ja aokirju?
+võro, eesti, vinne, tõsõq keeleq, ei loeq. Mille sa naid loet?
+
+5a. Määnest kiilt vai mändsit kiili sa egä päiv kõnõlõt ja pruugit? Värviq õigõ vai õigõq kruuduq.
+võro, eesti, vinne, muu kiil, miä?
+
+5b. Määnest kiilt sa esiq pruugit, ku tõnõ kõnõlõs võro kiilt?
+võro, eesti, vinne, muu kiil, miä?
+
+5c. Määnest kiilt sa esiq pruugit, ku tõnõ kõnõlõs eesti kiilt?
+võro, eesti, vinne, muu kiil, miä?
+
+5d. Määnest kiilt sa esiq pruugit, ku tõnõ kõnõlõs vinne kiilt?
+võro, eesti, vinne, muu kiil, miä?
+
+6a. Mändsest keelest vai kiilist saat sa arvu kullõldõn? Valiq ja värviq.
+võro, eesti, vinne, muu kiil, miä?
+
+6b. Määnest kiilt vai kiili sa tõisiga kõnõldaq mõistat?
+võro, eesti, vinne, muu kiil, miä?
+
+6c. Mändsen keelen vai kiilin sa lukõq mõistat?
+võro, eesti, vinne, muu kiil, miä?
+
+6d. Mändsen keelen vai kiilin mõistat sa kirotaq kirja vai lühembät teksti?
+võro, eesti, vinne, muu kiil, miä?
+
+7a. Ku häste sa saat kullõldõn arvu naist kiilist? Valiq ja värviq.
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä? väega häste, häste, keskmädselt, halvastõ, sukugi eiq
+
+7b. Ku häste sa kõnõlõt naid kiili?
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä? väega häste, häste, keskmädselt, halvastõ, sukugi eiq
+
+7c. Ku häste sa loet naid kiili? Valiq ja värviq.
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä? väega häste, häste, keskmädselt, halvastõ, sukugi eiq
+
+7d. Ku häste sa kirotat naid kiili? Valiq ja värviq.
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä? väega häste, häste, keskmädselt, halvastõ, sukugi eiq
+
+8. Määnest kiilt vai kiili sa tahad inämb oppiq?
+kullõldõn arvu saama, kõnõlõma, lugõma, kirotama.
+Mille? Seletäq, mille sa nii arvat? Seletäq ka sõs, ku sa midägi es valiq.
+
+9a. Inemine või oppi joba väikese latsõna ütte, kattõ vai mitund kiilt. Valiq ja värviq su meelest õigõ võimalus.
+Mu meelest om tähtsä mõista ütte kiilt, kattõ kiilt, kolmõ kiilt vai viil inämb kiili.
+Mille? Seletäq, mille sa sändse valiku teit.
+
+9b. Tiiq uma valik vai valiguq. Mu arvatõn om tähtsä mõista ütte kiilt, kattõ kiilt, kolmõ kiilt vai viil inämb kiili. Mille? Seletäq, mille sa sändsevaliku teit.
+
+10a. Miä tõsõq latsõq mõtlõsõq, ku sa mõistat
+ütte kiilt
+kattõ kiilt
+kolmõ kiilt vai viil inämb kiili
+
+10b. Miä oppajaq mõtlõsõq, ku sa mõistat
+ütte kiilt
+kattõ kiilt
+kolmõ kiilt vai viil inämb kiili
+
+10c. Miä tõsõq inemiseq mõtlõsõq, ku sa mõistat
+ütte kiilt
+kattõ kiilt
+kolmõ kiilt vai viil inämb kiili
+
+11. Määnest kiilt vai kiili koolin opit? Valiq ja värviq.
+võro kiil, eesti kiil, vinne kiil, muu kiil, määne kiil vai keeleq?
+Mille sa kiili opit? Seletäq, mille sa niimuudu arvat.
+
+12a. Määnest kiilt vai kiili piässi su arvatõn koolin oppama?
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä? mille? Seletäq, mille sa niimuudu arvat.
+
+12b. Määnest kiilt vai kiili piässi imä ja esä arvatõn koolin oppama?
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä? Mille? Seletäq, mille sa niimuudu arvat.
+
+12c. Määnest kiilt vai kiili piässi oppajidõ arvatõn koolin oppama?
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä? Mille? Seletäq, mille sa niimuudu arvat.
+
+12d. Määnest kiilt vai kiili piässi tõisi Võromaa inemiisi arvatõn koolin oppama?
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä? Mille? Seletäq, mille sa niimuudu arvat.
+
+13a. Kas sa tahassi esiq valliq noid kiili, minkan sullõ koolin esiq opiainit opatas? Valiq ja värviq.
+Jah, eiq. Seletäq, mille sa niimuudu arvat.
+
+13b. Mändsen keelen vai kiilin piässi oppajaq su meelest sullõ koolin opiainit oppama?
+võro kiil, eesti kiil, vinne kiil, muu kiil, miä? Mille? Seletäq, mille sa niimuudu arvat.
+
+Aituma vastussidõ iist!
+# Aituma vastussidõ iist!

@@ -1,0 +1,25 @@
+Nr 40-el on originaalfailis keset võrokeelset teksti eestikeelne lõik, kustutatud. Ka muidu reavahetusi juurde pandud, kustutatud. Samuti on lõpuks võrokeelne tekst, millel puudub eestikeelne vaste.
+nr 59, 116 rida, võrukeelne jutt on poole lühemaks jäänud (Lattik), osa mõtet tõlkimata.
+nr 59, 120 rida, mitu eestikeelset lõiku tõlkimata
+nr 59, 121 võrukeelne lisarida.
+nr 59, 135 rida, eestikeelne täheparandus.
+nr 59, 285 rida, eestikeelne tekst on võro kiilde tõlkimata.
+nr 61, 187 rida, eestikeelne rida poolik
+nr 62, esimene lõik, teine rida eesti keeles välja jäetud, sest põhimõtteliselt neljanda reaga kordus: Eelistatakse kirjutada suhteliselt lühikesi palasid: luuletusi, laulutekste, lühiproosat, harvem romaane.
+nr 62, 222 rida, eestikeelsel real pole tõlget, välja jäetud: On iseloomulik stiilide paljusus, esitatakse enamasti luulet ja lühiproosat.
+nr 64, 34 eestikeelne rida tõlkimata, välja jäetud: Kivipilli kivid pärinevad Marinova dolokivikarjäärist ja Kalvist põhjarannikult. 
+nr 64, 33 võrukeelne rida tõlkimata, välja jäetdu: „Luudusõhelü’ omma’ aigu alostusõst pääle mi ümbre.
+nr 64, 58 ja 59 eestikeelsed read ei vasta ühele 58 võrukeelsele reale: Peamiselt võrukeelsed on ülesastumised nii laadal kui kirikus ja töötubades. Õhtuse pääkontsõrdi kava koosneb rahvalauludest, rahvalikest lauludest, klassikalistest koorilauludest ja uuematest kooridele seatud lauludest. Pääkontsõrdil lauldas rahvalaulõ, rahvalikkõ laulõ, klassikaliidsi koorilaulõ ja vahtsõmbit koorõlõ säet laulõ.
+nr 67, inglise rida 47, winw->wine
+nr 74, ridade 75 ja 76 sõnajärge on muudetud, sest võrukeelse tõlke järgi oleksid nagu read vahetusse läinud, aga suurtähed ja komad sellele ei viidanud.
+nr 74, eestikeelne, rida 226, puudub võrukeelne tõlge, välja võetud: Need on ka kaitsealused liigid.
+nr 75, rida 43 inglise keeles, "vaba valik" tõlge puudub
+nr 77, korduvalt eestikeelsel real nii inglise kui soome keel. Võrukeelsel real võrukeelne.
+nr 80, rida 76, eesti keel, võru keel puudub: Vinegret: -öli- veiniäädikakaste
+nr 80, rida 149, eesti keel, võru keel puudub: Farfalle- lipsukujulised makaronid
+nr 85, rida 183, võru keeles puudub tõlge, kustutatud: Taimestik
+nr 85, võru keeles rida 168 ilma tõlketa, tõlkisin ise, kuna info on oluline: Paluniitü ja kuiva maaniitü nimetedäs Karulan hariligult söödüs.
+nr 85, võru rida 281, eestikeelne lause on võru keeles teise, korduslausega ülerõhutatud: Rüärääk om rahvuspargi niite kõgõ parõmb indikaatri-tsirk. Ku lövvüs näid, om niidüelu kõrran.
+nr 85, kolme eestikeelset rida on ilma tõlketa, 462-464, kustutasin: Ajalooliselt väärtusliku Sibula rehielamu ruumes asub Eesti legendaarse koorijuhi Karl Leinuse majamuuseum. Haabsaares on väike koduloonurk-muuseum. Metsamoori perepargi taludeketti kuuluvas Värtemäe talus on väike mesindusmuuseum Eesti mesinduse ja selle ajaloo kohta.
+
+nr. 188 on eesti keelne osa poolik, kolmas päev puudu.

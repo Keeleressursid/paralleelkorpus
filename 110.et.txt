@@ -1,0 +1,25 @@
+# OÜ Kõnnujõe Talu sooviks menüü tõlkimist. (18.05.10)
+# šašlõkk,grill-liha,küüslaugu liha,friikartul ketsupiga,friikartul viineritega,suitsukanakoib,praetud kala,grill-vorst,panniroog,kanafilee küüslaugu ja meega,kalevipoja supp.
+# Šašlõkk – saslõk´ (käändub: saslõk´, saslõgi, saslõkki – kõik III vältes)
+
+Grill-liha
+
+Küüslauguliha
+
+Friikartul ketšupiga
+#
+Friikartul viineritega
+Friikartul viineritega
+#
+Suitsukanakoib
+
+Praetud kala
+
+Grillvorst
+#
+Panniroog
+#
+Kanafilee küüslaugu ja meega
+
+Kalevipoja supp
+#
